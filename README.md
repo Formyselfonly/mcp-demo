@@ -1,6 +1,6 @@
 # Kerry MCP Tools Collection
 
-这是一个为Cursor设计的MCP (Model Context Protocol) 工具集合，提供多种实用功能，包括系统信息查询、个人档案管理、网络搜索和天气查询等。
+这是一个为Cursor设计的MCP (Model Context Protocol) 工具集合(自用,interview介绍)，提供多种实用功能，包括系统信息查询、个人档案管理、网络搜索和天气查询等。
 
 ## 🚀 功能特性
 
