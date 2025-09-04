@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+      "demo-server": {
+        "command": "python",
+        "args": ["demo_main.py"],
+        "cwd": "D:\\githubproject\\mcp-demo",
+        "env": {
+          "PYTHONPATH": "D:\\githubproject\\mcp-demo"
+        }
+      }
+    }
+  }
+  
